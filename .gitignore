@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# add large files to ignore
+ratings.csv
+movies_metadata.csv
+wikipedia-movies.json
+
+# add ignore for config
+config.py
+
 # C extensions
 *.so
 
